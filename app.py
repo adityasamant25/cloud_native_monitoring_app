@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import psutil
 from flask import Flask, render_template
 
